@@ -30,7 +30,7 @@ console.log(underscoreToPascal('my_variable'))
 | Function Name | Description |
 |---------------|-------------|
 | underscoreToPascal| A function that convert an underscore_cased string to PascalCased string |
-| camelToUnderscore | A function that convert an camelCased string to underscore_cased string |
+| camelToUnderscore | A function that convert an camelCased string to underscore_cased string | sdfkjsvfsvj fnvfgbnios
 
 ### Contributions
 
